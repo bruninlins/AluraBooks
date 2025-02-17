@@ -37,7 +37,7 @@ O design foi baseado na identidade visual proposta no curso da Alura, garantindo
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/alurabooks.git
+git clone https://github.com/bruninlins/AluraBooks
 
 Acesse a pasta do projeto:
 
@@ -52,6 +52,7 @@ Abra o arquivo index.html em seu navegador.
 
 https://github.com/user-attachments/assets/b58b4a72-62d3-45f3-887f-7ba30406fd77
 
+Caso queira acessar o site basta clicar <a href="https://alura-books-beige-xi.vercel.app/"> aqui </a>
 <br>
 
 <h2>Licença 📜</h2>
